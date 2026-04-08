@@ -323,5 +323,5 @@ output {
   }
 
   stdout { codec => rubydebug }
-}g
+}
 ```
